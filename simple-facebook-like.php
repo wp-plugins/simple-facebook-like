@@ -5,7 +5,7 @@ Plugin URI: http://nxsn.com/projects/simple-facebook-like
 Description: 
 Adds "Facebook Like Button" after or before your post content. This plugin have an admin page so you can easily configure it. 
 Facebook Like Button introduced on http://developers.facebook.com/docs/reference/plugins/like 
-Version: 1.0
+Version: 1.0.1
 Author: Huseyin Berberoglu
 Author URI: http://nxsn.com
  */
